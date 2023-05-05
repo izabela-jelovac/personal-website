@@ -1,7 +1,8 @@
-function Card() {
+function Card({ title, description }) {
   return (
     <div>
-      <p>Title</p>
+      <p>{title}</p>
+      <p>{description}</p>
     </div>
   );
 }
