@@ -8,7 +8,6 @@ function App() {
     <div className="App">
       <Introduction />
       <Menu />
-      <h1>Hi, I'm front-end developer. </h1>
       <Card title={"hello world"} description={"hi"} />
       <Card title={"goodbye world"} description={"bye"} />
     </div>
