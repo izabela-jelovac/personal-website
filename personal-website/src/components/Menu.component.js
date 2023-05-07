@@ -5,7 +5,7 @@ import About from "../About";
 
 function Menu() {
   return (
-    <div>
+    <div className="menu">
       <p>MENU</p>
       <Education />
       <MyProjects />
