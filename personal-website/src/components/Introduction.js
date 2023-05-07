@@ -1,6 +1,6 @@
 function Introduction() {
   return (
-    <div>
+    <div className="intro">
       <h1>Hi, I'm Izabela. </h1>
       <p>
         I am front-end developer based in Croatia. I make simple React projects
