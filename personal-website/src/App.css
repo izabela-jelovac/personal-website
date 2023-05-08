@@ -13,13 +13,22 @@ body{
   margin: 100px 50px;
 }
 .intro{
-  text-align: right;
+  text-align: left;
+  max-width: 40%;
+  display: block;
   
 }
 h1{
   text-align: center;
+  
 
+}
+h3{
+  text-align: center;
 }
 a{
   color: rgb(96, 49, 49)
+}
+.education{
+  margin: 70px 50px;  
 }
